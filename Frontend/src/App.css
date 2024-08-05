@@ -1,4 +1,4 @@
-/* Add this CSS to your component's CSS file or within a <style> tag
+/* Add this CSS to your component's CSS file or within a <style> tag */
 .container1 {
   display: flex;
   height: 100vh;
@@ -23,24 +23,24 @@
   justify-content: flex-start;
   padding: 20px;
   box-sizing: border-box;
-  border-left: 1px solid #ccc; /* Optional: add a border between sections 
+  border-left: 1px solid #ccc;  
   background-color: lightskyblue;
 }
 
 .messages-container {
-  max-height: 300px; /* Maximum height for the scrollable area 
-  overflow-y: auto; /* Enables vertical scrolling 
-  border: 1px solid #ccc; /* Light gray border 
-  padding: 10px; /* Inner padding for some space 
-  background-color: #f9f9f9; /* Light background color 
-  border-radius: 5px; /* Rounded corners 
+  max-height: 300px; 
+  overflow-y: auto; 
+  border: 1px solid #ccc; 
+  padding: 10px; 
+  background-color: #f9f9f9; 
+  border-radius: 5px;  
   width: 100%;
   box-sizing: border-box;
 }
 
 .message-item {
   margin-bottom: 10px;
-} */
+}
 .whiteboard-container {
   display: flex;
   flex-direction: column;
